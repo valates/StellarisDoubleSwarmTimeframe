@@ -38,7 +38,7 @@ Note: new fleets still only spawn if total fleet power < 5000.
 Delete game_start.txt
 
 ## Set own Swarm spawn timers/probabilities
-Line 255 of game_start.txt. For a probably of no swarm spawn, make one entry x = {} where x is the probability of no spawn happening.
+Line 255 of game_start.txt. For a probability of no swarm spawn, make one entry x = {} where x is a number, the probability of no spawn happening.
 
 ## Vanilla Unbidden Jump Drive Risk
 Change line 55 and line 60 of crisis_events_2.txt to "factor = 0.8"
