@@ -1,0 +1,1 @@
+Allows for multiple crises in game and lets the player modify the occurence rates for each crises manually.
