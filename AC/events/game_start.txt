@@ -196,7 +196,7 @@ event = {
 				}
 			}
 		}
-	}
+	}10
 }
 
 ### Hidden Game Start Event that resets tutorial for advisor trigger purposes

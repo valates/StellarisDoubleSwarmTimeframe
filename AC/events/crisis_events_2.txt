@@ -48,8 +48,8 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		# 100 years
-		months = 1200
+		# 500 years
+		months = 6000
 		# If player has psi jump drive, it's more likely
 		modifier = {
 			factor = 0.01
