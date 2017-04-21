@@ -11,7 +11,7 @@
 
 
 ### Unbidden
--Changed MTTH from 240 months to 1200 months (comment in code said MTTH should be 100 years, but it was set to 20 years). Effectively reduces probability of Unbidden spawning in a non-Jump Drive empire by a factor of 5. Should fix problems with Unbidden always being the crisis encountered.
+-Changed MTTH from 240 months to 6000 months (comment in code said MTTH should be 100 years, but it was set to 20 years). Effectively reduces probability of Unbidden spawning in a non-Jump Drive empire by a factor of 5. Should fix problems with Unbidden always being the crisis encountered. Further increase from 1200 to 6000 was to account for the fact that the roll occurs for every empire.
 
 -Reduced speedup factor of spawn for empires with jump drive from 0.8 to 0.01. Effectively increases probability of Unbidden spawning in an empire with Jump Drive by a factor of 80.
 
