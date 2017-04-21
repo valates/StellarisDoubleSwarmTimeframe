@@ -40,7 +40,7 @@ Note: new fleets still only spawn if total fleet power < 5000.
 
 # Disabling changes
 
-## Vanilla Swarm Spawn Probabilities/Remove Risk of No Swarm Spawn
+## Vanilla Swarm Spawn Probabilities/Allow chance of No Swarm Spawn
 Delete game_start.txt
 
 
