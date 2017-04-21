@@ -31,7 +31,7 @@ Note: new fleets still only spawn if total fleet power < 5000.
 # War in Heaven
 -Increased chance of Awakened Empire having War in Heaven with rival ethos Fallen Empire from 40% to 55%.
 
--Increased chance of Awakened Empire having War in Heaven with random Fallen EMpire from 20% to 35%.
+-Increased chance of Awakened Empire having War in Heaven with random Fallen Empire from 20% to 35%.
 
 -Reduced chance of no War in Heaven post-Awakened Empire from 40% to 10%.
 
