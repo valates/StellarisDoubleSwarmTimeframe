@@ -196,7 +196,7 @@ event = {
 				}
 			}
 		}
-	}10
+	}
 }
 
 ### Hidden Game Start Event that resets tutorial for advisor trigger purposes
@@ -227,8 +227,7 @@ event = {
 				25 = { country_event = { id = crisis.10 days = 72000 random = 500 } } # 200 years
 				35 = { country_event = { id = crisis.10 days = 90000 random = 500 } } # 250 years
 				20 = { country_event = { id = crisis.10 days = 108000 random = 500 } } # 300 years
-				5 = { country_event = { id = crisis.10 days = 124000 random = 500 } } # 350 years
-				# No Prethoryn Invasion occurence removed. Invasion inevitable.
+				5 = { country_event = { id = crisis.10 days = 126000 random = 500 } } # 350 years
 			}
 		}
 	}
