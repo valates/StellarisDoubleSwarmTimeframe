@@ -16,7 +16,7 @@
 -Reduced speedup factor of spawn for empires with jump drive from 0.8 to 0.01. Effectively increases probability of Unbidden spawning in an empire with Jump Drive by a factor of 80.
 
 
-Researching jump drives now practically GUARANTEES Unbidden almost IMMEDIATELY (within a year). Previously the speedup due to Jump Drive was laughably minor; absolutely worst case they would show up 20% faster than normal.
+Researching jump drives now practically GUARANTEES Unbidden almost IMMEDIATELY (within 5 years). Previously the speedup due to Jump Drive was laughably minor; absolutely worst case they would show up 20% faster than normal.
 
 
 
