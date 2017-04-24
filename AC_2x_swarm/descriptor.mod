@@ -1,0 +1,1 @@
+Doubles the spawn timeframe of the swarm from 170/.../300 years to 85/.../150 years.
