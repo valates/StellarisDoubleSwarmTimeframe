@@ -1,3 +1,15 @@
+# Installing this mod manually
+
+Download the zip containing these files. You should get a folder name something like "blahblah-master." Inside that folder is a .mod file which can be opened with notepad and a folder containing other files. Copy and paste the .mod file and the folder to "C:\Users\<USERNAME>\Documents\Paradox Interactive\Stellaris\mod." After that, this mod should show up as a selectable mod in your mod list on startup.
+
+You don't need the README.md file.
+
+
+# I want everything. Just give me a Steam download link
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=910137601
+
+
 # Changelog
 ## Crises
 
